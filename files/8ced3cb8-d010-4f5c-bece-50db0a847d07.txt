@@ -1,0 +1,59 @@
+{
+  "persons" : [ {
+    "name" : "Alex Yeoh",
+    "phone" : "87438807",
+    "nokPhone" : "89705432",
+    "email" : "alexyeoh@example.com",
+    "address" : "Blk 30 Geylang Street 29, #06-40",
+    "classDateTime" : "2022-11-04 1650-1657",
+    "moneyOwed" : 6,
+    "moneyPaid" : 2,
+    "ratesPerClass" : 2,
+    "additionalNotes" : "notes",
+    "tagged" : [ "python" ],
+    "isPresent" : false,
+    "displayedClass" : "2022-11-04 1650-1657"
+  }, {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "nokPhone" : "91726932",
+    "email" : "lidavid@example.com",
+    "address" : "Blk 436 Serangoon Gardens Street 26, #16-43",
+    "classDateTime" : "2022-10-28 1659-1700",
+    "moneyOwed" : 1999999999,
+    "moneyPaid" : 1,
+    "ratesPerClass" : 2,
+    "additionalNotes" : "notes",
+    "tagged" : [ "python" ],
+    "isPresent" : false,
+    "displayedClass" : "2022-10-28 1659-1700"
+  }, {
+    "name" : "Bernice Yu",
+    "phone" : "99272758",
+    "nokPhone" : "93706732",
+    "email" : "berniceyu@example.com",
+    "address" : "Blk 30 Lorong 3 Serangoon Gardens, #07-18",
+    "classDateTime" : "2022-10-28 1702-1703",
+    "moneyOwed" : 7,
+    "moneyPaid" : 1,
+    "ratesPerClass" : 2,
+    "additionalNotes" : "notes",
+    "tagged" : [ "Java", "python" ],
+    "isPresent" : false,
+    "displayedClass" : "2022-10-28 1702-1703"
+  }, {
+    "name" : "Charlotte Oliveiro",
+    "phone" : "93210283",
+    "nokPhone" : "66554163",
+    "email" : "charlotte@example.com",
+    "address" : "Blk 11 Ang Mo Kio Street 74, #11-04",
+    "classDateTime" : "2022-10-28 1704-1705",
+    "moneyOwed" : 1000000000,
+    "moneyPaid" : 10,
+    "ratesPerClass" : 40,
+    "additionalNotes" : "",
+    "tagged" : [ "Java" ],
+    "isPresent" : false,
+    "displayedClass" : "2022-10-28 1704-1705"
+  } ]
+}
